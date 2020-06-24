@@ -16,5 +16,8 @@
     "mongoose-currency": "^0.2.0",
     "morgan": "~1.9.0",
     "npm-check-updates": "^7.0.1"
+  },
+  "devDependencies": {
+    "clean-css": "^4.2.3"
   }
 }
